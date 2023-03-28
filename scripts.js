@@ -142,3 +142,69 @@
     // for (let car of cars){
     //     console.log(car)
     // }    
+
+
+// Functions
+
+    // function cook(maggi, pani, tapelli){
+    //     console.log("Your maggie will be ready in "
+    //     + maggi*2
+    //     +" minutes"
+    //     +" and ingrediant used are:-"
+    //     +maggi + " Maggi"
+    //     + pani+ " cups of water"
+    //     +"using " + tapelli + " pan");
+
+    // }
+    // cook(2,4,1)
+
+
+// Functions with return
+
+
+    // let bread1 = prompt("which bread would like to have:- ");
+    // let vigggies1 = prompt("what are your favorite veggies");
+    // let sauce1 = prompt("what sauce")
+
+    // function cook(bread,veggies,sauce){
+    //        let sandwich = bread + "bread" + veggies + "viggies" + sauce + "sauce";
+    //        return sandwich; 
+
+    // }
+    // let x = cook(bread1,vigggies1,sauce1)
+    // console.log(x)
+
+
+// strings
+
+
+    // let x = 'You\'hello ';
+    // let y = typeof x;
+    // // document.getElementById("demo").innerHTML = x;
+    // for(let i = 0 ; i < 11; i++){
+    //     let tags =  document.createElement('h1');
+    //     tags.innerHTML =  `${String>>(i * 9)}`;
+    //     document.body.appendChild(tags)
+    // } 
+
+
+// strings functions
+
+    // var favshow = "Lost in space"
+    // for(let i = 0 ; i < 2; i++){
+    //     let tags =  document.createElement('h1');
+    //     tags.innerHTML =  `${favshow.length}`;
+    //     tags.innerHTML =  `${favshow.indexOf("in")}`;
+    //     tags.innerHTML =  `${favshow.slice(0,10)}`;
+    //     tags.innerHTML =  `${favshow.toUpperCase()}`;
+    //     document.body.appendChild(tags)
+    // }
+
+
+// Reference datatypes
+    
+
+// $('h1').click(function(){
+//     console.log("Hello", this);
+// })
+
